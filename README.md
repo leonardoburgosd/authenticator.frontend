@@ -4,4 +4,5 @@ Proyecto de autenticación(SSO) con Angular, Tailwindcss
 * Interfaz de autenticación reutilizable  
 * Versión Beta  
 
-Backend: https://github.com/leonardoburgosd/authenticator_backend
+Backend: https://github.com/leonardoburgosd/authenticator_backend  
+Dashboard: https://github.com/leonardoburgosd/authenticator_frontend
