@@ -1,11 +1,14 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AppComponent } from './app.component';
-import { PermisosComponent } from './permisos/permisos.component';
+import { LoginComponent } from './Screens/login/login.component';
+import { RegisterComponent } from './Screens/register/register.component';
+import { PermissionComponent } from './Screens/permission/permission.component';
 
 const routes: Routes = [
-  { path: 'login', component: AppComponent },
-  { path: 'permisos', component: PermisosComponent }
+  { path: '', component: LoginComponent },
+  { path: 'register', component: RegisterComponent },
+  { path: 'permission', component: PermissionComponent },
 ];
 
 @NgModule({
