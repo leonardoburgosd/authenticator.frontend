@@ -6,3 +6,7 @@ Proyecto de autenticación(SSO) con Angular, Tailwindcss
 
 Backend: https://github.com/leonardoburgosd/authenticator_backend  
 Dashboard: https://github.com/leonardoburgosd/authenticator_frontend
+
+
+## Capturas
+![Login](/img/component_login.jpg)
